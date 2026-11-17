@@ -1,24 +1,27 @@
+# Local environment and secrets
 .env
 .env.*
 !.env.example
+**/.env
+**/.env.*
+!**/.env.example
 
-# Python
-__pycache__/
-*.py[cod]
-.pytest_cache/
+# Dependencies, build output, and caches
 .venv/
-*.egg-info/
-
-# Frontend
+**/.venv/
 node_modules/
-frontend/dist/
+**/node_modules/
+dist/
+**/dist/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+**/.pytest_cache/
+.ruff_cache/
+**/.ruff_cache/
 
-# Database
-sql_app.db
-data/chroma/
-data/*.db
+# Local databases and generated vector data
+*.db
 *.bak
-
-# OS
-.DS_Store
-Thumbs.db
+data/chroma/
+**/chroma/
