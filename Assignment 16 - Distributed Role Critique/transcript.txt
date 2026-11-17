@@ -1,0 +1,3 @@
+Command: python solution.py
+
+Independent objections: [{'role': 'finance', 'objection': 'cost exceeds 1000'}, {'role': 'venue', 'objection': 'capacity exceeds 100'}, {'role': 'logistics', 'objection': 'duration exceeds 3 hours'}]

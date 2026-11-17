@@ -1,0 +1,6 @@
+Command: python solution.py
+
+{'action': 'scale service', 'estimated_cost': 400} {'status': 'approved'}
+{'action': 'buy servers'} {'status': 'rejected', 'reason': 'Cost estimate is required.'}
+{'action': 'buy servers', 'estimated_cost': 900} {'status': 'rejected', 'reason': 'Budget limit exceeded without finance approval.'}
+{'action': 'buy servers', 'estimated_cost': 900} {'status': 'approved'}

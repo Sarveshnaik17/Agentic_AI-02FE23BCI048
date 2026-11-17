@@ -1,0 +1,4 @@
+Command: python solution.py
+
+database answer: ['Decision: use PostgreSQL for production storage.']
+hosting answer: ['Decision: deploy the frontend on the campus VM.']

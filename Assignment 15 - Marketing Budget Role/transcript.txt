@@ -1,0 +1,5 @@
+Command: python solution.py
+
+Roles: logistics, food, activity, marketing
+Conflict log: [{'conflict': 'overall budget cap', 'total': 1250, 'cap': 1100, 'rule': 'budget_over_preference'}, {'resolution': 'reduced optional marketing spend', 'cut': 150}]
+Final costs: {'venue': {'cost': 600}, 'food': {'cost': 300}, 'activity': {'cost': 150}, 'marketing': {'cost': 50, 'plan': 'campus posters'}}

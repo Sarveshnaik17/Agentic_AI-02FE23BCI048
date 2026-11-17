@@ -1,0 +1,3 @@
+Command: python solution.py
+
+The synthesis leans toward Peer-reviewed study: No measurable effect in a preregistered trial. The lower-tier claim from Vendor blog was down-weighted, not discarded: Hallucinations fell by 35% in a product demo.

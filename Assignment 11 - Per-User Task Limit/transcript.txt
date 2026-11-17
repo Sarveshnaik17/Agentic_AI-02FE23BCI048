@@ -1,0 +1,6 @@
+Command: python solution.py
+
+1 {'status': 'completed', 'task': 'task-1'}
+2 {'status': 'completed', 'task': 'task-2'}
+3 {'status': 'completed', 'task': 'task-3'}
+4 {'status': 'rejected', 'reason': 'Session limit of 3 tasks reached.'}

@@ -1,0 +1,4 @@
+Command: python solution.py
+
+{'diagnosis': 'payment API regression', 'severity': 'ALARM', 'deploy': 'release payments-api 2.4'}
+{'diagnosis': 'database connection-pool exhaustion', 'severity': 'WARNING', 'deploy': 'release reporting-worker 1.8'}

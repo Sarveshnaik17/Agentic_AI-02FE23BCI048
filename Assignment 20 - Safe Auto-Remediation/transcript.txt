@@ -1,0 +1,5 @@
+Command: python solution.py
+
+('WARNING', 'restart_single_pod', 'low') -> executed automatically
+('WARNING', 'rollback', 'low') -> approval required
+('ALARM', 'restart_single_pod', 'low') -> approval required

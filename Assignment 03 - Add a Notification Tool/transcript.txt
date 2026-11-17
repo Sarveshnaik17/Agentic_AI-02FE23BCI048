@@ -1,0 +1,5 @@
+Command: python solution.py
+
+Average sign-ups: 8.0
+{'tool': 'calculator', 'input': [8, 6, 10], 'output': 8.0}
+{'tool': 'send_notification', 'reason': 'Average 8.0 is below threshold 10.', 'output': {'status': 'drafted', 'message': 'Low turnout notice: please promote upcoming events.', 'sent': False}}

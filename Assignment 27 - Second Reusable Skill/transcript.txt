@@ -1,0 +1,4 @@
+Command: python solution.py
+
+My account is locked and I cannot sign in. -> {'node': 'triage_skill', 'answer': 'Check account status and sign-in error details.'}
+How do I reset my password? -> {'node': 'password_reset_skill', 'answer': 'Use the official password-reset page and verify identity. Never ask the user to share their current password or one-time code.'}

@@ -1,0 +1,3 @@
+Command: python solution.py
+
+Readings: [72, 76, 81] Recommendation: schedule_inspection

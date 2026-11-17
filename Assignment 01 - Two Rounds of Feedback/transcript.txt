@@ -1,0 +1,4 @@
+Command: python solution.py
+
+{'iteration': 1, 'feedback': "Move Tuesday's session to the evening.", 'same_object': True, 'plan': {'Tuesday': {'time': '20:00-22:00', 'hours': 2}, 'Friday': {'time': '17:00-19:00', 'hours': 2}}}
+{'iteration': 2, 'feedback': "Also make Friday's session shorter, only one hour.", 'same_object': True, 'plan': {'Tuesday': {'time': '20:00-22:00', 'hours': 2}, 'Friday': {'time': '17:00-18:00', 'hours': 1}}}

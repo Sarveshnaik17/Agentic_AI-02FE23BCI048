@@ -1,0 +1,4 @@
+Command: python solution.py
+
+Discovered: ['list_files']
+Result: {'files': ['agenda.txt', 'minutes.md']}

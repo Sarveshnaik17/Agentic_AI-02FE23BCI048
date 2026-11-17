@@ -1,0 +1,4 @@
+Command: python solution.py
+
+Scenario A: ['builder attempt 1: failure', 'retry once', 'builder attempt 2: success', 'continue to security_scan']
+Scenario B: ['builder attempt 1: failure', 'retry once', 'builder attempt 2: failure', 'escalate to human after retry limit']

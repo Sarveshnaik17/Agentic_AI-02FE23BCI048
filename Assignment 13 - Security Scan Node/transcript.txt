@@ -1,0 +1,7 @@
+Command: python solution.py
+
+builder {'owner': 'builder_agent', 'input': 'story', 'output': 'code', 'success': 'code produced', 'failure': 'stop and report'}
+security_scan {'owner': 'security_agent', 'input': 'code', 'output': 'scan_result', 'success': 'no critical findings', 'failure': 'block tester and report'}
+tester {'owner': 'test_agent', 'input': 'code plus scan_result', 'output': 'test_result', 'success': 'checks pass', 'failure': 'return findings'}
+Success simulation: ['builder', 'security_scan', 'tester']
+Failure simulation: ['builder', 'security_scan', 'halt: scan failed; tester not run']

@@ -1,0 +1,5 @@
+Command: python solution.py
+
+Forecast 920 kW: {'status': 'WARNING', 'action': 'monitor'}
+Forecast 1050 kW: {'status': 'ALARM', 'action': 'held for human review'}
+After review: {'status': 'ALARM', 'action': 'schedule load reduction'}

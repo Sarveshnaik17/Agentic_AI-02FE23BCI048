@@ -1,0 +1,5 @@
+Command: python solution.py
+
+1 {'status': 'error', 'reason': 'Simulated skill failure.'}
+2 {'status': 'error', 'reason': 'Simulated skill failure.'}
+3 {'status': 'escalated', 'reason': 'Skill failed twice in this session.'}

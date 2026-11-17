@@ -1,0 +1,3 @@
+Command: python solution.py
+
+{'source': 'Campus learning platform pilot', 'main_claim': 'Quiz accuracy improved by 12%.', 'evidence': 'controlled study of 800 students', 'selection_note': 'Two unrelated claims were present; the better-supported claim was selected.'}

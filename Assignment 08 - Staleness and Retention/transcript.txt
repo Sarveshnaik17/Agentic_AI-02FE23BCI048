@@ -1,0 +1,4 @@
+Command: python solution.py
+
+fresh {'warning': None, 'decision': 'Keep weekly backups.'}
+old {'warning': 'This decision is from 108 days ago and may be out of date.', 'decision': None}

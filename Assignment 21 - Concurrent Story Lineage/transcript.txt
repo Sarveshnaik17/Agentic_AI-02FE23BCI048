@@ -1,0 +1,8 @@
+Command: python solution.py
+
+{'story_id': 'CSV-1', 'stage': 'code', 'artifact': 'Export meeting data to CSV - code artifact'}
+{'story_id': 'CSV-1', 'stage': 'design', 'artifact': 'Export meeting data to CSV - design artifact'}
+{'story_id': 'CSV-1', 'stage': 'test', 'artifact': 'Export meeting data to CSV - test artifact'}
+{'story_id': 'PDF-1', 'stage': 'code', 'artifact': 'Export meeting data to PDF - code artifact'}
+{'story_id': 'PDF-1', 'stage': 'design', 'artifact': 'Export meeting data to PDF - design artifact'}
+{'story_id': 'PDF-1', 'stage': 'test', 'artifact': 'Export meeting data to PDF - test artifact'}

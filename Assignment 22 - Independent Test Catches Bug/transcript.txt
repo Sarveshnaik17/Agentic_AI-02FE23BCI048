@@ -1,0 +1,3 @@
+Command: python solution.py
+
+{'status': 'FAIL', 'expected': [7, 9], 'actual': [7], 'message': 'Independent requirement check: return every value at or above the threshold.'}

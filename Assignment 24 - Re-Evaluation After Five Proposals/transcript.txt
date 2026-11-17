@@ -1,0 +1,10 @@
+Command: python solution.py
+
+1 {'status': 'accepted', 'proposal': 'proposal-1'}
+2 {'status': 'accepted', 'proposal': 'proposal-2'}
+3 {'status': 'accepted', 'proposal': 'proposal-3'}
+4 {'status': 'accepted', 'proposal': 'proposal-4'}
+5 {'status': 'accepted', 'proposal': 'proposal-5'}
+6 {'status': 'blocked', 'message': 'Re-evaluation required before another proposal.'}
+{'status': 'evaluated', 'count': 2}
+After re-evaluation: {'status': 'accepted', 'proposal': 'proposal-6'}

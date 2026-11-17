@@ -1,0 +1,6 @@
+Command: python solution.py
+
+Technical event average: 15.0
+{'tool': 'read_csv', 'rows': [{'event': 'AI Club Talk', 'category': 'technical', 'signups': 12}, {'event': 'Robotics Demo', 'category': 'technical', 'signups': 18}, {'event': 'Career Panel', 'category': 'social', 'signups': 9}]}
+{'step': 'filter', 'category': 'technical', 'rows': [{'event': 'AI Club Talk', 'category': 'technical', 'signups': 12}, {'event': 'Robotics Demo', 'category': 'technical', 'signups': 18}]}
+{'tool': 'calculator', 'values': [12, 18], 'average': 15.0}
