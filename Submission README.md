@@ -1,10 +1,10 @@
 # Agentic AI Lab Submission
 
-This submission contains 28 individual assignment folders from the 14 labs in the Agentic AI Lab Guide, the Meeting Organizer Agent course project report, and a clean source-code snapshot.
+This submission contains 14 lab folders with two individual assignments in each, covering all 28 assignments from the Agentic AI Lab Guide, plus the Meeting Organizer Agent course project report and a clean source-code snapshot.
 
 ## Repository Contents
 
-- Assignment 01 through Assignment 28: one folder per graded assignment. Each contains a standalone solution, a short requirement note, and a captured run transcript.
+- LAB-1 through LAB-14: each lab folder contains two assignment folders. Each assignment contains a standalone solution, a short requirement note, and a captured run transcript.
 - Assignment Index.md: mapping from every assignment folder to its lab and topic.
 - Course Project Report.pdf: the course project report.
 - Course Project Report.md: editable report source.
