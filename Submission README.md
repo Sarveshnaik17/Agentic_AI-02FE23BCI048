@@ -4,8 +4,8 @@ This submission contains 14 lab folders with two individual assignments in each,
 
 ## Repository Contents
 
-- LAB-1 through LAB-14: each lab folder contains two assignment folders. Each assignment contains a standalone solution, a short requirement note, and a captured run transcript.
-- Assignment Index.md: mapping from every assignment folder to its lab and topic.
+- LAB-1 through LAB-14: each lab contains folders named Assignment 1 and Assignment 2. Each assignment includes its topic-specific README, solution, and run transcript.
+- Assignment Index.md: links to each lab assignment and its topic.
 - Course Project Report.pdf: the course project report.
 - Course Project Report.md: editable report source.
 - Course Project Source Code: a copy of the project files needed to inspect and run the application.
