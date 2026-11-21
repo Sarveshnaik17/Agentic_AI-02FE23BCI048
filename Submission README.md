@@ -1,26 +1,18 @@
 # Agentic AI Lab Submission
 
-This submission contains 14 lab folders with two individual assignments in each, covering all 28 assignments from the Agentic AI Lab Guide, plus the Meeting Organizer Agent course project report and a clean source-code snapshot.
+This repository contains all 28 individual assignments from the 14 labs, along with the Team D4 course project report, worklet, and source code.
 
-## Repository Contents
+## Assignments
 
-- LAB-01 through LAB-14: each lab contains folders named Assignment 1 and Assignment 2. Each assignment includes its topic-specific README, solution, and run transcript.
-- Assignment Index.md: links to each lab assignment and its topic.
-- Course Project Report.pdf: the course project report.
-- Course Project Report.md: editable report source.
-- Course Project Source Code: a copy of the project files needed to inspect and run the application.
-
-The source snapshot omits local credentials, virtual environments, databases, caches, and editor metadata. Configure local credentials from the included .env.example before running the application.
+- `Assignments/LAB-01` through `Assignments/LAB-14`: each lab has `Assignment 1` and `Assignment 2` folders. Each assignment includes its README, solution, and transcript.
+- [Assignment Index](Assignment%20Index.md): links to all assignment folders and topics.
 
 ## Course Project
 
-Meeting Organizer Agent automates scheduling, room booking, agenda preparation, transcript processing, approval, action tracking, and follow-up. The project keeps human review gates before agenda and minutes are approved.
+- [Course Project Report - Team D4 (PDF)](Course%20Project%20Report%20-%20Team%20D4.pdf)
+- [Course Project Worklet - Team D4 (DOCX)](Course%20Project%20Worklet%20-Team%20D4.docx)
+- [Course Project Source Code - Team D4](Course%20Project%20Source%20Code%20-%20Team%20D4/README.md)
 
-Repository: https://github.com/aniiiket08/meeting-workflow-engine
+The source-code snapshot includes setup instructions and an `.env.example`. Add local credentials only to a private `.env` file; do not upload secrets, local databases, or build artifacts.
 
-## Submission Details
-
-- Assignments are organized individually as required.
-- Submission deadline: 19 November 2026.
-- Course project report and source code are included.
-- Review the local deliverables and push them to the configured GitHub repository before submission.
+Repository: https://github.com/Sarveshnaik17/Meeting-Organiser-Agent
